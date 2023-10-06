@@ -1,0 +1,24 @@
+{
+	"0": {
+		"steam": {
+			"steamAccount": "haima_001",
+			"steamPwd": "haima!@123456"
+		},
+		"networkAccelerator": {
+			"acceleratorType": "",
+			"networkAcceleratorAccount": "",
+			"networkAcceleratorPwd": ""
+		}
+	},
+	"1": {
+		"steam": {
+			"steamAccount": "haimasteam@163.com",
+			"steamPwd": "haima!@123456"
+		},
+		"networkAccelerator": {
+			"acceleratorType": "",
+			"networkAcceleratorAccount": "",
+			"networkAcceleratorPwd": ""
+		}
+	}
+}
